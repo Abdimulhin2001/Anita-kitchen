@@ -1,4 +1,4 @@
-# Anitas Kichen!
+# Anitas Kichen
 ## Description
 This is a of an restaurant that explains more about the services offered.
 ### Setup
