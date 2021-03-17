@@ -399,7 +399,7 @@ body {
   margin: 0 0 0 10px;
 }
 
-footer {
+.footer {
   background-color: #f15a29;
   width: 100%;
   height: 301px;
@@ -463,7 +463,7 @@ footer {
   margin: 0 0 0 15px;
   font-size: 50px;
 }
-.ftag {
+.name {
   color: white;
   font-size: 25px;
   margin: 15px 0 20px 0;
@@ -479,7 +479,7 @@ footer {
 .copyright {
   margin: 10px 0 0 0;
 }
-.fbicon .pinterestcon {
+.faceicon .pinterestcon {
   height: 39px;
   width: 39px;
 }
