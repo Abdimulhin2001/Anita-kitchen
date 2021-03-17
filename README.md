@@ -3,7 +3,7 @@
 This is a of an restaurant that explains more about the services offered.
 ### Setup
 To access this project on your local files, you can clone it using these steps
-1. Open your terminal.
+1. Open your terminal
 1. Use this command to clone "https://abdimulhin2001.github.io/Anitah-Kitchen/"_
 ### Technologies Used
 1. HTML
