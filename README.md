@@ -12,7 +12,7 @@ To access this project on your local files, you can clone it using these steps
 ### Live Site
 View [live](https://abdimulhin2001.github.io/Anitah-Kitchen/)
 ## Author
-Abdimulhin Adan.
+Abdimulhin Adan
 ### Licence
 This project is under the  [MIT](LICENSE) licence
 License format:
