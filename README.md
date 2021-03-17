@@ -1,6 +1,6 @@
 # Anitas Kichen!
 ## Description
-This is a of an restaurant that explains more about the services offerd.
+This is a of an restaurant that explains more about the services offered.
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal.
